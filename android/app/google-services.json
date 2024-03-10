@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901210400233",
+    "project_id": "alarmflutter-93dbc",
+    "storage_bucket": "alarmflutter-93dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901210400233:android:e06092434238c9d2a61778",
+        "android_client_info": {
+          "package_name": "com.example.flutter_alarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNnjqPMdWmxd3hFz6ilp0RXvIo7EUdWG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901210400233:android:26582b64f181178da61778",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNnjqPMdWmxd3hFz6ilp0RXvIo7EUdWG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
